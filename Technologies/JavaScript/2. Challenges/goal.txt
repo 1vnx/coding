@@ -1,0 +1,8 @@
+do 50 challenges
+
+10 - very easy
+10 - easy
+10 - medium
+10 - hard
+10 - very hard
+10 - expert

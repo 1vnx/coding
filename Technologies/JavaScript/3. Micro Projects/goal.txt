@@ -1,0 +1,5 @@
+https://www.freecodecamp.org/news/javascript-projects-for-beginners/
+
+use this resource + more others to build micro projects
+
+build atleast 20 microprojects
