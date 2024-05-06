@@ -1,0 +1,9 @@
+slot machine - javascript project
+(things you can learn)
+
+- data analytics
+- probablity
+- objects in html
+- basics of keeping track of vars (global and nested vars)
+
+break down the code in psuedo code - helps down to basically project your thoughts.
