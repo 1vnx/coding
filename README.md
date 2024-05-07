@@ -1,7 +1,7 @@
 Question Driven Development (Effective path learning that resembles real life software development)
 
 ===HOW TO USE THIS GUIDE=== <br>
-(getting out of tutorial hell & actually learning) <br>
+
 You need to know
 
 - Variables
